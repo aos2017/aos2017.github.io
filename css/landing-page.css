@@ -128,7 +128,7 @@ hr.content-divider {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background: url(../img/plaza_mayor.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -188,4 +188,8 @@ p.copyright {
 .content-section h3,
 p.place{
   text-align: center;
+}
+
+h3.sponsorship-header{
+  text-align: left;
 }
