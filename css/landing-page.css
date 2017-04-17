@@ -193,3 +193,7 @@ p.place{
 h3.sponsorship-header{
   text-align: left;
 }
+
+.img-tera{
+  max-height: 240px;
+}
