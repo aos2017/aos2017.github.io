@@ -195,5 +195,9 @@ h3.sponsorship-header{
 }
 
 .img-tera{
-  max-height: 240px;
+  max-height: 250px;
+}
+
+.img-giga{
+  max-height: 175px;
 }
